@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.cinerama.com.pe/_admin/assets/images/peliculas/9x16_AficheOficial-169x300.jpg" group-title=" Terremoto⭐", SOBREVIVIENTES: DESPUÉS DEL TERREMOTO
-https://qiwi.lol/5azq9051-Telegram.mkv
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/terminator.jpg",Terminator 1
+https://cache018.peliscdn.online/newhls/5b6a67b84b4c35d38ebe8dd35dec0a86/EP.0.1.v0.1708838006.1080.m3u8?.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/terminator-2-el-juicio-final.jpg",Terminator 2: El Juicio Final
+https://cache010.peliscdn.online/newhls/36aa3b23f1b31ff0a77cd2b59394744c/EP.0.1.v0.1708739109.720.m3u8?.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/terminator-3-la-rebelion-de-las-maquinas.jpg",Terminator 3: La rebelión de las Maquinas
+https://cache005.peliscdn.online/newhls/18485f67f326af1b4fcecdd242768178/EP.0.1.v0.1708868608.720.m3u8?.mp4
 #EXTINF:-1 tvg-logo="https://cutt.ly/n09MK0B" group-title=" Busqueda Implacable⭐",Busqueda Implacable 1
 https://dl.dropboxusercontent.com/s/sa1h1v4ktl20lwu/Busqueda%20Implacable%201.mkv?dl=0
 #EXTINF:-1 tvg-logo="https://cutt.ly/5091dHw" group-title=" Busqueda Implacable⭐",Busqueda Implacable 2
