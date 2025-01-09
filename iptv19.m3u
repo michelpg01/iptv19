@@ -11,28 +11,14 @@ https://goo.su/jMvkWEK
 https://goo.su/SnQr
 #EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos256/PBO.png" group-title=" Perú ⭐",POB
 https://goo.su/SuUoi
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos256/BHTV.png" group-title=" Perú ⭐",BHTV
+https://goo.su/zCZR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lxtiCKc.png" group-title=" Perú ⭐",RPP
 http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/166631
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dcq83LC.png" group-title=" MUSICA 🎧",TOP LATINO
-http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/166800
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Td768p9.jpg" group-title=" MUSICA 🎧",TV Pop
-https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x6x5rYf.png" group-title=" MUSICA 🎧",MAS CUMBIA
-https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8?WebM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/24_Music_Top.png" group-title=" MUSICA 🎧",Music Top | AR
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/924_Panavision.png" group-title=" MUSICA 🎧",Panavision | VE
-https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1062_Canal_VM_Latino.png" group-title=" MUSICA 🎧",Canal VM Latino | CR
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/37_Canal_38.png" group-title=" MUSICA 🎧",Canal 38 | CR
-https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="521" tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title=" MUSICA 🎧",Recuerdos Retro Radio TV | CL
-https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="31" tvg-logo="https://www.m3u.cl/logo/31_Portal_FoxMix.png" group-title=" MUSICA 🎧",Portal FoxMix | CL
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q4kTSmA.jpg" group-title=" Perú ⭐",EXITOSA TV
-http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/283235
+https://goo.su/hTWiwTZ
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos256/GLOBAL.png" group-title=" Perú ⭐",GLOBAL
+https://goo.su/NG06Ku
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U2zIcyl.jpg" group-title=" Perú ⭐",KARIBEÑA TV
 https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7IUuwh4.png" group-title=" Perú ⭐",TV PERÚ
@@ -52,7 +38,7 @@ http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/166618
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9TnsXz8.png" group-title=" Perú ⭐",PERU MAGICO
 http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/166629
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TodS5y5.jpg" group-title=" Perú ⭐",PBO Digital
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/taDHzIoN8FM/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/pDH0lgeF0qw?si=3Fdr82PMce19ISwM
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TodS5y5.jpg" group-title=" Perú ⭐",PBO Digital SD
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ynrdqr.jpg" group-title=" Perú ⭐",RadioInka (Abancay)
