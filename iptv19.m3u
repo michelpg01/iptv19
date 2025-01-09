@@ -1,18 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/fe5d40b5e4e4230743593b96dda8de73.gif" group-title=" Perú ⭐",Nacido para matar
-https://cache012.peliscdn.online/newhls/80cda8c5e977bbdfa10d1abaecae6b95/EP.0.1.v0.1708742717.720.m3u8
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/fe5d40b5e4e4230743593b96dda8de73.gif" group-title=" Perú ⭐",LATINA
 https://goo.su/IORq
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wnjuf3N.png" group-title=" Perú ⭐",AMERICA TV
-http://103.145.13.105:8080/sammy1/sammy1/10271
+https://goo.su/XsWud
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/630536480eedb972fcac8269176b4266.gif" group-title=" Perú ⭐",ATV
-http://103.145.13.105:8080/sammy1/sammy1/10280
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/630536480eedb972fcac8269176b4266.gif" group-title=" Perú ⭐",ATV HD
-http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/283240
+https://goo.su/YH8joCz
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PQat1kO.png" group-title=" Perú ⭐",ATV+
-http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/283242
+https://goo.su/jMvkWEK
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/debdcb032a9b131c55af4652fc4e699d.gif" group-title=" Perú ⭐",WILLAX 
-http://103.145.13.105:8080/sammy1/sammy1/10270
+https://goo.su/SnQr
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos256/PBO.png" group-title=" Perú ⭐",POB
+https://goo.su/SuUoi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lxtiCKc.png" group-title=" Perú ⭐",RPP
 http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/166631
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dcq83LC.png" group-title=" MUSICA 🎧",TOP LATINO
@@ -37,10 +35,8 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?Playl
 http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/283235
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U2zIcyl.jpg" group-title=" Perú ⭐",KARIBEÑA TV
 https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7IUuwh4.png" group-title=" Perú ⭐",TV PERÚ INTERNACIONAL
-http://cdnh4.iblups.com/hls/irtp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7IUuwh4.png" group-title=" Perú ⭐",TV PERÚ
-https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
+https://goo.su/US1mc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7IUuwh4.png" group-title=" Perú ⭐",TV PERÚ (op.2)
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7IUuwh4.png" group-title=" Perú ⭐",TV PERÚ NOTICIAS
@@ -92,11 +88,7 @@ https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ajxOitF.png" group-title=" Perú ⭐",Vision Musica TV
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w1129776260.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JViBcgx.png" group-title=" Perú ⭐",PANAMERICANA
-http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/166627
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JViBcgx.png" group-title=" Perú ⭐",PANAMERICANA (OP.2)
-https://cdnh71.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JViBcgx.png" group-title=" Perú ⭐",PANAMERICANA SD
-http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/166628
+https://goo.su/QJahnC
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P9SWD4g/liga1.png" group-title=" Deporte ⚽", LIGA 1|PE 
 http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/252156
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PmmSgSk.png" group-title=" Deporte ⚽",GOL PERU HD
