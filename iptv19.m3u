@@ -4,7 +4,7 @@ https://goo.su/IORq
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wnjuf3N.png" group-title=" Perú ⭐",AMERICA TV
 https://goo.su/nUQzyes
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wnjuf3N.png" group-title=" Perú ⭐",AMERICA TV 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAMERICATV&content-expiration=1737254880&user-id=348796226&device-id=589010758&device-type=web&signature-ip=179.6.52.204&stream-quality=20&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=2&parallel-group=ps%3A1&lang=es&signature-expiration=1737254880&signature-hash=9b11f2192f811661c4683e8c7378cf1f62bb19e0b673369fd5fcca32b1a5cddf
+https://goo.su/QdWyWR3
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/630536480eedb972fcac8269176b4266.gif" group-title=" Perú ⭐",ATV
 https://goo.su/YH8joCz
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PQat1kO.png" group-title=" Perú ⭐",ATV+
@@ -25,12 +25,10 @@ https://goo.su/NG06Ku
 https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7IUuwh4.png" group-title=" Perú ⭐",TV PERÚ
 https://goo.su/US1mc
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7IUuwh4.png" group-title=" Perú ⭐",TV PERÚ (op.2)
-https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7IUuwh4.png" group-title=" Perú ⭐",TV PERÚ NOTICIAS
 https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7IUuwh4.png" group-title=" Perú ⭐",TV PERÚ INTERNANCIONAL
-https://cdnh74.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos256/QOSMO.png" group-title=" Perú ⭐",QOSMO
+https://goo.su/fa7RVkT
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3y9VQJk.jpg" group-title=" Perú ⭐",GLOBO TV
 http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/166626
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hvfpXQy.png" group-title=" Perú ⭐",CANAL N
@@ -39,10 +37,6 @@ http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/166617
 http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/166618
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9TnsXz8.png" group-title=" Perú ⭐",PERU MAGICO
 http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/166629
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TodS5y5.jpg" group-title=" Perú ⭐",PBO Digital
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/pDH0lgeF0qw?si=3Fdr82PMce19ISwM
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TodS5y5.jpg" group-title=" Perú ⭐",PBO Digital SD
-http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ynrdqr.jpg" group-title=" Perú ⭐",RadioInka (Abancay)
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H71t9yk.png" group-title=" Perú ⭐",TV Norte (Chiclayo)
@@ -118,39 +112,39 @@ http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/167731
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MY5wpqX.png" group-title=" Deporte ⚽",D SPORTS FHD
 http://soberon.us:25461/Yg6eDwSTMR/bmgk4A8hbt/1048
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MY5wpqX.png" group-title=" Deporte ⚽",D SPORTS (op.2)
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/67721
+http://iptvtree.net:8080/mitrovic/19106b7cb4/67721
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MY5wpqX.png" group-title=" Deporte ⚽",D SPORTS FHD (opc.2)
-http://nextv-chile.xyz:2080/diego2022/diego2022/17737
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MY5wpqX.png" group-title=" Deporte ⚽",D SPORTS (op.3)
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/793.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MY5wpqX.png" group-title=" Deporte ⚽",D SPORTS (op.4)
-http://hardcoremedia.xyz:80/f9Z7ZHVxf/vsx1mX3yNo/6988
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MY5wpqX.png" group-title=" Deporte ⚽",D SPORTS (op.5)
-http://hardcoremedia.xyz:80/f9Z7ZHVxf/vsx1mX3yNo/6989
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MY5wpqX.png" group-title=" Deporte ⚽",D SPORTS (op.6) AR
-http://nordicstream.xyz:2095/q8r8D5gHvh/ZmovhgMYOa/99578
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MY5wpqX.png" group-title=" Deporte ⚽",D SPORTS (op.7) CO
-http://nordicstream.xyz:2095/q8r8D5gHvh/ZmovhgMYOa/72219
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iUsG3y8.png" group-title=" Deporte ⚽",D SPORTS 2
-http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/167733
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iUsG3y8.png" group-title=" Deporte ⚽",D SPORTS 2 HD
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/31645
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dCt8LBX.png" group-title=" Deporte ⚽",D SPORTS +
-http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/167732
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dCt8LBX.png" group-title=" Deporte ⚽",D SPORTS + FHD
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/65750
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dCt8LBX.png" group-title=" Deporte ⚽",D SPORTS + HD
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/794.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qjxtu77.jpg" group-title=" Deporte ⚽",WIN SPORT (CO)
-http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/128040
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qjxtu77.jpg" group-title=" Deporte ⚽",WIN SPORT+ (CO)
-http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/128041
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4YerUTQ.jpg" group-title=" Deporte ⚽",FORMULA 1 HD
-http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/127986
+
 #EXTINF:-1 tvg-logo="http://streamgo.vip:8008/images/ccb7e786706e39bb3ec404bbe0c7b9ac.png" group-title=" Deporte ⚽",TYC SPORTS
-http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/167747
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LLYPyLk.jpg" group-title=" Deporte ⚽",BARÇA TV
-http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/127949
+
 #EXTINF:-1 tvg-logo="http://streamgo.vip:8008/images/cb815975a107f36c2d84f7ce4b81f04c.png" group-title=" Deporte ⚽",BEIN SPORTS 1
 http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/167751
 #EXTINF:-1 tvg-logo="http://streamgo.vip:8008/images/cb815975a107f36c2d84f7ce4b81f04c.png" group-title=" Deporte ⚽",BEIN SPORTS 2
@@ -174,11 +168,11 @@ http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/127959
 #EXTINF:-1 tvg-id="493" tvg-logo="https://www.m3u.cl/logo/493_Net_TV.png" group-title="TV", Net TV | AR
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/04dSSXZ.png",CARACOL INTERNACIONAL
-http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/159028
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mgPfyVy.png",RCN
-http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/159053
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CIEBOg0.png",CARACOL
-http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/159035
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nNYWvsZ.png",TELENOVELAS (MX)
 http://streamgo.vip:8008/PremiumTv04/Pdg9YW76eJhy/135434
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nNYWvsZ.png",TELENOVELAS (Op.2)
