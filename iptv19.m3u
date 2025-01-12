@@ -3,6 +3,8 @@
 https://goo.su/IORq
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wnjuf3N.png" group-title=" Perú ⭐",AMERICA TV
 https://goo.su/nUQzyes
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wnjuf3N.png" group-title=" Perú ⭐",AMERICA TV 2
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAMERICATV&content-expiration=1737254880&user-id=348796226&device-id=589010758&device-type=web&signature-ip=179.6.52.204&stream-quality=20&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=2&parallel-group=ps%3A1&lang=es&signature-expiration=1737254880&signature-hash=9b11f2192f811661c4683e8c7378cf1f62bb19e0b673369fd5fcca32b1a5cddf
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/630536480eedb972fcac8269176b4266.gif" group-title=" Perú ⭐",ATV
 https://goo.su/YH8joCz
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PQat1kO.png" group-title=" Perú ⭐",ATV+
