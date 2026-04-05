@@ -1,149 +1,179 @@
 #EXTM3U
-#EXTINF:-1 xui-id="680" tvg-id="tvperucultura.pe" tvg-name="PE | TV PERU NOTICIAS" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/tv-per-noticias-en-vivo-1459.png" group-title="→ PERÚ ←",PE | TV PERU NOTICIAS
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzJhBBcnpqj1nLAs1Ld_JEWk
-#EXTINF:-1 xui-id="681" tvg-id="willax.pe" tvg-name="PE | WILLAX TV" tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png" group-title="→ PERÚ ←",PE | WILLAX TV
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzPBxhoxwrXqP3fxDlQ3CqnA
-#EXTINF:-1 xui-id="682" tvg-id="atvplus.pe" tvg-name="PE | ATV +" tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="→ PERÚ ←",PE | ATV +
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzLFusQPxVERe3sukA7H5Th4
-#EXTINF:-1 xui-id="684" tvg-id="panamericanatv.pe" tvg-name="PE | PANAMERICANA" tvg-logo="https://ciarglobal.com/wp-content/uploads/2019/10/PanamericanaTV-300x300.jpg" group-title="→ PERÚ ←",PE | PANAMERICANA
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzGAwma6fJl-b_UPmhgXKOKc
-#EXTINF:-1 xui-id="685" tvg-id="perumagico.pe" tvg-name="PE | PERU MAGICO" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/per-mgico-en-vivo-1386.png" group-title="→ PERÚ ←",PE | PERU MAGICO
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzPpjjEBvep2fqhNQ3_Y-RBs
-#EXTINF:-1 xui-id="686" tvg-id="" tvg-name="PE | GOL PERU" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="→ PERÚ ←",PE | GOL PERU
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzLa3ZURCeaeqXNUS-HJU6Y4
-#EXTINF:-1 xui-id="687" tvg-id="golperu.pe" tvg-name="PE | GOL PERU FHD" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="→ PERÚ ←",PE | GOL PERU FHD
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzEawht6Pmnq-U_bN3U1mnoA
-#EXTINF:-1 xui-id="688" tvg-id="M+DEPORTESHD" tvg-name="ES | MOVISTAR DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="→ PERÚ ←",ES | MOVISTAR DEPORTES
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzMDO4aOdlda38ffl_A98y4c
-#EXTINF:-1 xui-id="689" tvg-id="americatelevision.pe" tvg-name="PE | MOVISTAR DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="→ PERÚ ←",PE | MOVISTAR DEPORTES
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzHlaM0nlAqRiR5o6HG7cK98
-#EXTINF:-1 xui-id="691" tvg-id="frecuencialatina.pe" tvg-name="PE | LATINA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg" group-title="→ PERÚ ←",PE | LATINA HD
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzMeDzEkOQvfp7PTNprq_kkM
-#EXTINF:-1 xui-id="694" tvg-id="" tvg-name="PE | ANTARES TV" tvg-logo="https://moyobamba.com/wp-content/uploads/2020/05/antarestv-mnc.png" group-title="→ PERÚ ←",PE | ANTARES TV
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzFm549apbnwAS6hkUCDAF0w
-#EXTINF:-1 xui-id="697" tvg-id="rppnoticias.pe" tvg-name="PE | RPP" tvg-logo="https://s.rpp-noticias.io/images/imgshare.jpg" group-title="→ PERÚ ←",PE | RPP
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzPKnErUzHz4QUC3Nt_d1DOI
-#EXTINF:-1 xui-id="3937" tvg-id="" tvg-name="Latina xxx" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="→ PERÚ ←",Latina xxx
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzFXhUNqvEEw6zj2n2eUdUZM
-#EXTINF:-1 xui-id="3977" tvg-id="" tvg-name="RedTraffic Latina" tvg-logo="http://tvstarlife.com:25500/resize.php?max=42&url=http://tvstarlife.com:25461/images/25cb13d3385d1b3e69fe842aa560a653.png" group-title="→ PERÚ ←",RedTraffic Latina
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzF4BMQV40Cv1TTEHAFoy25M
-#EXTINF:-1 xui-id="17022" tvg-id="tvperu.pe" tvg-name="PE | TV PERU" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/tvperu_avatar.png" group-title="→ PERÚ ←",PE | TV PERU
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzLt0qrWXxDAZQzLDgFwd9cE
-#EXTINF:-1 xui-id="66345" tvg-id="AMTV" tvg-name="PE | AMERICA TV SD" tvg-logo="https://i.postimg.cc/W4R7HDVx/descarga.png" group-title="→ PERÚ ←",PE | AMERICA TV SD
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzCJBoPFOo9W4clrQntIH5Cw
-#EXTINF:-1 xui-id="66347" tvg-id="frecuencialatina.pe" tvg-name="PE | LATINA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg" group-title="→ PERÚ ←",PE | LATINA FHD
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzMxcjVeJb1Ja7AsNeH7Sgyg
-#EXTINF:-1 xui-id="122387" tvg-id="" tvg-name="PE | LIGA 1 MAX HD" tvg-logo="https://i.postimg.cc/1z3FmT60/descarga.png" group-title="→ PERÚ ←",PE | LIGA 1 MAX HD
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzGlvJOvLLtu1-SB_VkmVamM
-#EXTINF:-1 xui-id="122388" tvg-id="" tvg-name="PE | LIGA 1 HD" tvg-logo="https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1813.png" group-title="→ PERÚ ←",PE | LIGA 1 HD
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzBWRAh6gEFhNGNIf44678Zs
-#EXTINF:-1 xui-id="143277" tvg-id="canaln.pe" tvg-name="PE | CANAL N SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="→ PERÚ ←",PE | CANAL N SD
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzGnl2Bffp_9GhsCm7kgd6pI
-#EXTINF:-1 xui-id="145873" tvg-id="AMTVHD" tvg-name="PE | AMERICA TV FHD" tvg-logo="https://i.postimg.cc/W4R7HDVx/descarga.png" group-title="→ PERÚ ←",PE | AMERICA TV FHD
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzJm10Ji_DhcRmoFpldSISK8
-#EXTINF:-1 xui-id="145877" tvg-id="" tvg-name="PE | LIGA 1 MAX SD" tvg-logo="https://i.postimg.cc/1z3FmT60/descarga.png" group-title="→ PERÚ ←",PE | LIGA 1 MAX SD
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzKIwvVVipv-C3Xua1UBv8M8
-#EXTINF:-1 xui-id="146624" tvg-id="exitosa.pe" tvg-name="PE | EXITOSA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="→ PERÚ ←",PE | EXITOSA TV
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzNxLHQ4n_SZO3_EkH4gqmvw
-#EXTINF:-1 xui-id="146625" tvg-id="" tvg-name="PE | GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="→ PERÚ ←",PE | GLOBAL TV
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzPZkT3NyB8dr9h4muHJszVo
-#EXTINF:-1 xui-id="146627" tvg-id="" tvg-name="PE | NATIVA TV" tvg-logo="https://i.postimg.cc/fL6NpjHY/descarga.png" group-title="→ PERÚ ←",PE | NATIVA TV
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzDqZg49u1CowJDJgV3yhHkc
-#EXTINF:-1 xui-id="148164" tvg-id="golperu.pe" tvg-name="PE | GOL PERU HD" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="→ PERÚ ←",PE | GOL PERU HD
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzC8-UTJDpjqaaaNtqWJld7w
-#EXTINF:-1 xui-id="157507" tvg-id="" tvg-name="PE | ATV" tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png" group-title="→ PERÚ ←",PE | ATV
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzNUyuReMircD07P-zhgZ8D4
-#EXTINF:-1 xui-id="299364" tvg-id="" tvg-name="PY | AMERICA TV" tvg-logo="http://digipro.ink:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrflnBStcMNr9iMk3wnSyyNYnEXyvDL8fnEVjNPaAicqQ.png" group-title="→ PERÚ ←",PY | AMERICA TV
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzIWseRjsvh6xo3Ul4tWwoEo
-#EXTINF:-1 xui-id="299545" tvg-id="" tvg-name="ARG  | AMERICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="→ PERÚ ←",ARG  | AMERICA TV
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzKDkg65K-NCEBXZcdimEXpo
-#EXTINF:-1 xui-id="327906" tvg-id="" tvg-name="PE• LIGA 1 MAX (HD) »6«" tvg-logo="http://lotvservice.us:8880/images/tpseC9Z5eJ5j0h1S7bqys_QHnCGcFgcxlZhZ8OudoQvKDje-OWzGwlKK0nMLm7mBWzNYh28wth8QtzEHfL2FdO-brRESOtt0k7xW9YQEDbJUeIl6ng84vHkjJQKJlc0DVVPi_FLO3CxZ0fRu-a4of6Ybrh1t_zgF4hvIkyJYxQ8.png" group-title="→ PERÚ ←",PE• LIGA 1 MAX (HD) »6«
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzAPWilA0tvAbkpw2XJVJ6s4
-#EXTINF:-1 xui-id="327907" tvg-id="" tvg-name="PE• LIGA 1 MAX (HD) »5«" tvg-logo="http://lotvservice.us:8880/images/tpseC9Z5eJ5j0h1S7bqys_QHnCGcFgcxlZhZ8OudoQvKDje-OWzGwlKK0nMLm7mBWzNYh28wth8QtzEHfL2FdO-brRESOtt0k7xW9YQEDbJUeIl6ng84vHkjJQKJlc0DVVPi_FLO3CxZ0fRu-a4of6Ybrh1t_zgF4hvIkyJYxQ8.png" group-title="→ PERÚ ←",PE• LIGA 1 MAX (HD) »5«
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzHHc5o5ptGUs8R2Y8nP12Ow
-#EXTINF:-1 xui-id="327931" tvg-id="" tvg-name="PE• LIGA 1 MAX (HD) »4«" tvg-logo="http://lotvservice.us:8880/images/tpseC9Z5eJ5j0h1S7bqys_QHnCGcFgcxlZhZ8OudoQvKDje-OWzGwlKK0nMLm7mBWzNYh28wth8QtzEHfL2FdO-brRESOtt0k7xW9YQEDbJUeIl6ng84vHkjJQKJlc0DVVPi_FLO3CxZ0fRu-a4of6Ybrh1t_zgF4hvIkyJYxQ8.png" group-title="→ PERÚ ←",PE• LIGA 1 MAX (HD) »4«
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzGuB2PEWe5od0B3rvEOiQjg
-#EXTINF:-1 xui-id="327932" tvg-id="" tvg-name="PE• LIGA 1 MAX (HD) »3«" tvg-logo="http://lotvservice.us:8880/images/tpseC9Z5eJ5j0h1S7bqys_QHnCGcFgcxlZhZ8OudoQvKDje-OWzGwlKK0nMLm7mBWzNYh28wth8QtzEHfL2FdO-brRESOtt0k7xW9YQEDbJUeIl6ng84vHkjJQKJlc0DVVPi_FLO3CxZ0fRu-a4of6Ybrh1t_zgF4hvIkyJYxQ8.png" group-title="→ PERÚ ←",PE• LIGA 1 MAX (HD) »3«
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzPcYMVB_LvWVkjKHjiuRGek
-#EXTINF:-1 xui-id="327934" tvg-id="" tvg-name="PE• LIGA 1 MAX (HD) »1«" tvg-logo="http://lotvservice.us:8880/images/tpseC9Z5eJ5j0h1S7bqys_QHnCGcFgcxlZhZ8OudoQvKDje-OWzGwlKK0nMLm7mBWzNYh28wth8QtzEHfL2FdO-brRESOtt0k7xW9YQEDbJUeIl6ng84vHkjJQKJlc0DVVPi_FLO3CxZ0fRu-a4of6Ybrh1t_zgF4hvIkyJYxQ8.png" group-title="→ PERÚ ←",PE• LIGA 1 MAX (HD) »1«
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzLdk8BT9x7XAeiosWu6-r_I
-#EXTINF:-1 xui-id="327935" tvg-id="" tvg-name="PE• LIGA 1 (HD)" tvg-logo="http://lotvservice.us:8880/images/tpseC9Z5eJ5j0h1S7bqys_QHnCGcFgcxlZhZ8OudoQvKDje-OWzGwlKK0nMLm7mBSaGBbn9HKyOcbCpqE3-isiXUM_LD8J3bv24GtCmZ4tQXyOX580slpmw1-Xw2CtIlY45V0qMuY-5csOk_pPjPH4LXUXexEtb07UsxkKcREWM.png" group-title="→ PERÚ ←",PE• LIGA 1 (HD)
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzA4fyqECEAuT0nfL_RKzENM
-#EXTINF:-1 xui-id="355665" tvg-id="" tvg-name="Destination America TV -" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Destinat_america_logo15.png" group-title="→ PERÚ ←",Destination America TV -
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzA7LFHwYqdg4Fq1AnLxe8CU
-#EXTINF:-1 xui-id="376100" tvg-id="" tvg-name="ATV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="→ PERÚ ←",ATV (720p) [Not 24/7]
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzK4cYnRhBwRh07lKufFEbgI
-#EXTINF:-1 xui-id="376101" tvg-id="" tvg-name="ATV Sur (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="→ PERÚ ←",ATV Sur (720p) [Not 24/7]
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzHfBxOXYKSjuBzZs7gHDwgo
-#EXTINF:-1 xui-id="376102" tvg-id="" tvg-name="ATV+" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="→ PERÚ ←",ATV+
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzMNGbxsxeTULNTvUUmXO4wI
-#EXTINF:-1 xui-id="376104" tvg-id="" tvg-name="Bethel TV" tvg-logo="https://i.imgur.com/zCVh765.png" group-title="→ PERÚ ←",Bethel TV
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzO92RrE4P7HZ2eN9W71ycKk
-#EXTINF:-1 xui-id="376118" tvg-id="" tvg-name="DW Español (1080p)" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="→ PERÚ ←",DW Español (1080p)
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzFvO6mDVH0iOqAzTvbBY78w
-#EXTINF:-1 xui-id="376122" tvg-id="" tvg-name="Enlace (720p)" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="→ PERÚ ←",Enlace (720p)
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzKuY-40Mp-2JJYni1Q_nRI4
-#EXTINF:-1 xui-id="376123" tvg-id="" tvg-name="EWTN el Canal Católico (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="→ PERÚ ←",EWTN el Canal Católico (720p) [Not 24/7]
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzC7awuYdp35MclDBWfXRkHo
-#EXTINF:-1 xui-id="376124" tvg-id="" tvg-name="Exitosa (720p)" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="→ PERÚ ←",Exitosa (720p)
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzFSFmGW9oRk8UrvzM3Lvz7M
-#EXTINF:-1 xui-id="376125" tvg-id="" tvg-name="France 24 Español (1080p)" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="→ PERÚ ←",France 24 Español (1080p)
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzErGTvEYlEhj5JGQMmeHQBE
-#EXTINF:-1 xui-id="376126" tvg-id="" tvg-name="Frecuencia Musical TV [Not 24/7]" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="→ PERÚ ←",Frecuencia Musical TV [Not 24/7]
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzC1d-CP2uw0pentHixHzwoM
-#EXTINF:-1 xui-id="376128" tvg-id="" tvg-name="Garage TV Latin America" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="→ PERÚ ←",Garage TV Latin America
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzBruVO1iSdEdA0RY1C9Rpi4
-#EXTINF:-1 xui-id="376129" tvg-id="" tvg-name="Global TV" tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="→ PERÚ ←",Global TV
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzJMaiqcFiiYlk6McME3__oE
-#EXTINF:-1 xui-id="376137" tvg-id="" tvg-name="Impacto Televisión (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/bkpCGP6.png" group-title="→ PERÚ ←",Impacto Televisión (360p) [Not 24/7]
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzNzgTdC9pD0F8jjdfnsEI1U
-#EXTINF:-1 xui-id="376145" tvg-id="" tvg-name="Latina (720p)" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="→ PERÚ ←",Latina (720p)
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzCFulvpNMhOExq2zWXZz59A
-#EXTINF:-1 xui-id="376146" tvg-id="" tvg-name="Latina Clasicos" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="→ PERÚ ←",Latina Clasicos
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzIDNMp1_S24-MfS-yCkn9j0
-#EXTINF:-1 xui-id="376151" tvg-id="" tvg-name="Miel TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/dPSFrCs.png" group-title="→ PERÚ ←",Miel TV (720p) [Not 24/7]
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzILGq7hHh5vm_gvPeVci750
-#EXTINF:-1 xui-id="376161" tvg-id="" tvg-name="Nuevo Tiempo (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="→ PERÚ ←",Nuevo Tiempo (720p) [Not 24/7]
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzEwSIEt_5Q8_4hh-q07m8nM
-#EXTINF:-1 xui-id="376176" tvg-id="" tvg-name="Radio Tropical Tarapoto (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="→ PERÚ ←",Radio Tropical Tarapoto (480p) [Not 24/7]
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzPvSS8732Z2V61u4dFuWNDI
-#EXTINF:-1 xui-id="376179" tvg-id="" tvg-name="Rai Italia Americas" tvg-logo="https://i.imgur.com/1nN4rEP.png" group-title="→ PERÚ ←",Rai Italia Americas
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzIO3liXZegd6KbZCdqbSl90
-#EXTINF:-1 xui-id="376180" tvg-id="" tvg-name="RCN Más (1080p)" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="→ PERÚ ←",RCN Más (1080p)
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzE29WM-PWm2z5kZ6U9bhtVY
-#EXTINF:-1 xui-id="376183" tvg-id="" tvg-name="RN Televisión (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="→ PERÚ ←",RN Televisión (720p) [Not 24/7]
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzCcvk4uJXiov1gIGXxNcQtM
-#EXTINF:-1 xui-id="376184" tvg-id="" tvg-name="RSelvaTV" tvg-logo="https://i.imgur.com/DAK5ZnD.png" group-title="→ PERÚ ←",RSelvaTV
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzCyeuoffU28mfCVVZAJbI-k
-#EXTINF:-1 xui-id="376197" tvg-id="" tvg-name="Teleselva" tvg-logo="https://i.imgur.com/cu7hTn8.png" group-title="→ PERÚ ←",Teleselva
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzKBO0xLp9vky7xaIrcJjdSM
-#EXTINF:-1 xui-id="376199" tvg-id="" tvg-name="Tevex (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="→ PERÚ ←",Tevex (720p) [Not 24/7]
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzM32EwHPkJYQQFpiEAdiABs
-#EXTINF:-1 xui-id="376216" tvg-id="" tvg-name="TVUNO (720p)" tvg-logo="https://i.imgur.com/dht94P4.png" group-title="→ PERÚ ←",TVUNO (720p)
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzBNLOxwppfJZSUEzXJGgyCE
-#EXTINF:-1 xui-id="376224" tvg-id="" tvg-name="Venevisión Internacional (720p)" tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="→ PERÚ ←",Venevisión Internacional (720p)
-http://gotv.vip:8880/play/ngtGyZLAdrOMNcIY8uBQzKdav2iDJIfKfSS77gTkARM
-#EXTINF:-1 xui-id="377987" tvg-name="72 Animales Peligrosos: América Latina S72E08" tvg-logo="https://image.tmdb.org/t/p/w1280/W20ltVo1lwzOjsM6FQHcXoFY6S.jpg" group-title="→ PERÚ ←",72 Animales Peligrosos: América Latina S72E08
-http://gotv.vip:8880/play/IwHtsqk-Jm5vSJVcVBwnUfJA-wJYmZ-TQsVNQNfo8CBeyPLA1xUEGPOoB2RJaWEL#.mkv
-#EXTINF:-1 xui-id="377979" tvg-name="72 Animales Peligrosos: América Latina S72E02" tvg-logo="https://image.tmdb.org/t/p/w1280/jiUYZKlluRnCfY6N4imsetSLzsn.jpg" group-title="→ PERÚ ←",72 Animales Peligrosos: América Latina S72E02
-http://gotv.vip:8880/play/IwHtsqk-Jm5vSJVcVBwnUYxKK8iuc3-E0IKom3jp2tPHxQIDK98X95ZylL9ASFUf#.mkv
-#EXTINF:-1 xui-id="377968" tvg-name="72 Animales Peligrosos: América Latina S72E03" tvg-logo="https://image.tmdb.org/t/p/w1280/3MvpH6K5wIAnY06UJIJaqCC6BZ7.jpg" group-title="→ PERÚ ←",72 Animales Peligrosos: América Latina S72E03
-http://gotv.vip:8880/play/IwHtsqk-Jm5vSJVcVBwnUUTtbJdJcgzikAhUTq-8Pb7AX3axnkGKq8qfn3W5Ifw6#.mkv
-#EXTINF:-1 xui-id="377967" tvg-name="72 Animales Peligrosos: América Latina S72E09" tvg-logo="https://image.tmdb.org/t/p/w1280/3MvpH6K5wIAnY06UJIJaqCC6BZ7.jpg" group-title="→ PERÚ ←",72 Animales Peligrosos: América Latina S72E09
-http://gotv.vip:8880/play/IwHtsqk-Jm5vSJVcVBwnUUTtbJdJcgzikAhUTq-8Pb74LPHVvCyQ606jlGUf4Ibn#.mkv
-#EXTINF:-1 xui-id="377962" tvg-name="72 Animales Peligrosos: América Latina S72E11" tvg-logo="https://image.tmdb.org/t/p/w1280/2VKc6WQCFXzwSGtBajfbG7qasvl.jpg" group-title="→ PERÚ ←",72 Animales Peligrosos: América Latina S72E11
-http://gotv.vip:8880/play/IwHtsqk-Jm5vSJVcVBwnUUTtbJdJcgzikAhUTq-8Pb5X_71Fj6xcxK4QVX0JQuy_#.mkv
-#EXTINF:-1 xui-id="377955" tvg-name="72 Animales Peligrosos: América Latina S72E07" tvg-logo="https://image.tmdb.org/t/p/w1280/57AWbdmf7SShtJcFcEPSqjdAtQt.jpg" group-title="→ PERÚ ←",72 Animales Peligrosos: América Latina S72E07
-http://gotv.vip:8880/play/IwHtsqk-Jm5vSJVcVBwnUXRDdTj0y3PEkJv5mnMb0eT-EChsEs4fg9RHcvPSpdSb#.mkv
-#EXTINF:-1 xui-id="377951" tvg-name="72 Animales Peligrosos: América Latina S72E01" tvg-logo="https://image.tmdb.org/t/p/w1280/57AWbdmf7SShtJcFcEPSqjdAtQt.jpg" group-title="→ PERÚ ←",72 Animales Peligrosos: América Latina S72E01
-http://gotv.vip:8880/play/IwHtsqk-Jm5vSJVcVBwnUXRDdTj0y3PEkJv5mnMb0eQfEb0X3hncXNQguvRfc5cF#.mkv
-#EXTINF:-1 xui-id="377950" tvg-name="72 Animales Peligrosos: América Latina S72E04" tvg-logo="https://image.tmdb.org/t/p/w1280/57AWbdmf7SShtJcFcEPSqjdAtQt.jpg" group-title="→ PERÚ ←",72 Animales Peligrosos: América Latina S72E04
-http://gotv.vip:8880/play/IwHtsqk-Jm5vSJVcVBwnUXRDdTj0y3PEkJv5mnMb0eQzos9F66LieWAlatE1jkJy#.mkv
-#EXTINF:-1 xui-id="377944" tvg-name="72 Animales Peligrosos: América Latina S72E06" tvg-logo="https://image.tmdb.org/t/p/w1280/57AWbdmf7SShtJcFcEPSqjdAtQt.jpg" group-title="→ PERÚ ←",72 Animales Peligrosos: América Latina S72E06
-http://gotv.vip:8880/play/IwHtsqk-Jm5vSJVcVBwnUcjIPJyhC7WHFrzYeeq3ojCtR8iL8t7042D__QIO0XmK#.mkv
-#EXTINF:-1 xui-id="377943" tvg-name="72 Animales Peligrosos: América Latina S72E12" tvg-logo="https://image.tmdb.org/t/p/w1280/57AWbdmf7SShtJcFcEPSqjdAtQt.jpg" group-title="→ PERÚ ←",72 Animales Peligrosos: América Latina S72E12
-http://gotv.vip:8880/play/IwHtsqk-Jm5vSJVcVBwnUcjIPJyhC7WHFrzYeeq3ojAAgPZPH98KBDFMvAuqZ6yU#.mkv
-#EXTINF:-1 xui-id="377942" tvg-name="72 Animales Peligrosos: América Latina S72E10" tvg-logo="https://image.tmdb.org/t/p/w1280/57AWbdmf7SShtJcFcEPSqjdAtQt.jpg" group-title="→ PERÚ ←",72 Animales Peligrosos: América Latina S72E10
-http://gotv.vip:8880/play/IwHtsqk-Jm5vSJVcVBwnUcjIPJyhC7WHFrzYeeq3ojDExSjziYAZkt7e0nSnLQUq#.mkv
-#EXTINF:-1 xui-id="377940" tvg-name="72 Animales Peligrosos: América Latina S72E05" tvg-logo="https://image.tmdb.org/t/p/w1280/57AWbdmf7SShtJcFcEPSqjdAtQt.jpg" group-title="→ PERÚ ←",72 Animales Peligrosos: América Latina S72E05
-http://gotv.vip:8880/play/IwHtsqk-Jm5vSJVcVBwnUcjIPJyhC7WHFrzYeeq3ojAC0707usi0o5OVVqyJuTbY#.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RADIO LATINA BACHATA" tvg-logo="http://goldfull.pro:8880/images/b5fabdaeb2b0b22452cdf461cbc51ea7.png" group-title="→ PERÚ ←",RADIO LATINA BACHATA
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/166731
+#EXTINF:-1 tvg-id="" tvg-name="RADIO PLANETA CUMBIA LATINA (ARGENTINA)" tvg-logo="http://goldfull.pro:8880/images/50624d0c9350e4d1b67cee2bd333d9c3.png" group-title="→ PERÚ ←",RADIO PLANETA CUMBIA LATINA (ARGENTINA)
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/166767
+#EXTINF:-1 tvg-id="" tvg-name="RADIO EXITOSA (PERU)" tvg-logo="http://goldfull.pro:8880/images/b652f55d76666929be4f1fb7b1971907.jpeg" group-title="→ PERÚ ←",RADIO EXITOSA (PERU)
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/166786
+#EXTINF:-1 tvg-id="" tvg-name="RADIO PANAMERICANA (PERU)" tvg-logo="http://goldfull.pro:8880/images/96adb68f2d4fd8728b61c8d7c7fc67ed.png" group-title="→ PERÚ ←",RADIO PANAMERICANA (PERU)
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/166789
+#EXTINF:-1 tvg-id="" tvg-name="Karaoke 'Josefa Matías' al estilo de La Dimensión Latina" tvg-logo="http://redworld.pro:8880/images/644cae39f6840331fb11bd51b0a4a35b.jpg" group-title="→ PERÚ ←",Karaoke 'Josefa Matías' al estilo de La Dimensión Latina
+http://rlatinop.com:8880/movie/caroy833/rm3p68BTSJNJ/272352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karaoke 'La Piragua' al estilo de La Dimensión Latina \" tvg-logo="http://redworld.pro:8880/images/644cae39f6840331fb11bd51b0a4a35b.jpg" group-title="→ PERÚ ←",Karaoke 'La Piragua' al estilo de La Dimensión Latina \
+http://rlatinop.com:8880/movie/caroy833/rm3p68BTSJNJ/272357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RADIO LATINA EN VIVO 104.5" tvg-logo="http://goldfull.pro:8880/images/ff3954c81bda8045f432fd3e05cd5d6d.png" group-title="→ PERÚ ←",RADIO LATINA EN VIVO 104.5
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/348715
+#EXTINF:-1 tvg-id="" tvg-name="Canal Atv - C.A.B.A" tvg-logo="" group-title="→ PERÚ ←",Canal Atv - C.A.B.A
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/359918
+#EXTINF:-1 tvg-id="" tvg-name="Canal Net Tv - C.A.B.A" tvg-logo="" group-title="→ PERÚ ←",Canal Net Tv - C.A.B.A
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/359919
+#EXTINF:-1 tvg-id="" tvg-name="Canal Neo Tv  - Buenos Aires" tvg-logo="" group-title="→ PERÚ ←",Canal Neo Tv  - Buenos Aires
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/359922
+#EXTINF:-1 tvg-id="" tvg-name="PT : CANAL NOS  ᶠᴴᴰ" tvg-logo="noimage.png" group-title="→ PERÚ ←",PT : CANAL NOS  ᶠᴴᴰ
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/390903
+#EXTINF:-1 tvg-id="zonalatina.cl" tvg-name="CL | ZONA LATINA" tvg-logo="http://redworld.pro:8880/images/5a4b9fa350eb60818dfbde5f9d849c3d.png" group-title="→ PERÚ ←",CL | ZONA LATINA
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/273734
+#EXTINF:-1 tvg-id="ESPN.pe" tvg-name="PE | ESPN 2 HD" tvg-logo="http://redworld.pro:8880/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="→ PERÚ ←",PE | ESPN 2 HD
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/428655
+#EXTINF:-1 tvg-id="" tvg-name="PE | FOX SPORTS 1" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="→ PERÚ ←",PE | FOX SPORTS 1
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/428662
+#EXTINF:-1 tvg-id="" tvg-name="PE | FOX SPORTS 2" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="→ PERÚ ←",PE | FOX SPORTS 2
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/428663
+#EXTINF:-1 tvg-id="" tvg-name="PE | FOX SPORTS 3" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="→ PERÚ ←",PE | FOX SPORTS 3
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/428664
+#EXTINF:-1 tvg-id="" tvg-name="PE | FOX SPORTS PREMIUM" tvg-logo="http://redworld.pro:8880/images/65d1b536a5c2eb33ca65344adeabdfba.png" group-title="→ PERÚ ←",PE | FOX SPORTS PREMIUM
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/428665
+#EXTINF:-1 tvg-id="DIRECTVSports.pe" tvg-name="PE | *$PORTS 1" tvg-logo="http://redworld.pro:8880/images/02fa25039bab7a36031658b571bc59cf.png" group-title="→ PERÚ ←",PE | *$PORTS 1
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/428666
+#EXTINF:-1 tvg-id="DIRECTVSports2.pe" tvg-name="PE | *$PORTS 2" tvg-logo="http://redworld.pro:8880/images/ecc2816ea02928aa4f2917d4980b2f9a.png" group-title="→ PERÚ ←",PE | *$PORTS 2
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/428667
+#EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-name="PE | *$PORTS +" tvg-logo="http://redworld.pro:8880/images/4b5dbd58c05fa6144858acb4cc3201ea.png" group-title="→ PERÚ ←",PE | *$PORTS +
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/428668
+#EXTINF:-1 tvg-id="" tvg-name="PE | *LIGA 1" tvg-logo="http://redworld.pro:8880/images/32e8419a7ecb8f918c70fdadf783e3d8.png" group-title="→ PERÚ ←",PE | *LIGA 1
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/428671
+#EXTINF:-1 tvg-id="" tvg-name="PE | *LIGA 1 MAX HD" tvg-logo="http://redworld.pro:8880/images/32e8419a7ecb8f918c70fdadf783e3d8.png" group-title="→ PERÚ ←",PE | *LIGA 1 MAX HD
+http://1a-1791.com/live/v13wgnv6/live-hls/hpgu-ef4h/chunklist_i1_DVR.m3u8
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="PE| AMERICA TV HD OP1" tvg-logo="http://redworld.pro:8880/images/affe649311fe6469e061b0d802fb6a49.png" group-title="→ PERÚ ←",PE| AMERICA TV HD OP1
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/428948
+#EXTINF:-1 tvg-id="" tvg-name="PE| AMERICA TV HD OP2" tvg-logo="http://redworld.pro:8880/images/affe649311fe6469e061b0d802fb6a49.png" group-title="→ PERÚ ←",PE| AMERICA TV HD OP2
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/428973
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="PE| AMERICA TV SD" tvg-logo="http://redworld.pro:8880/images/affe649311fe6469e061b0d802fb6a49.png" group-title="→ PERÚ ←",PE| AMERICA TV SD
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429002
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="PE| ATV HD OP1" tvg-logo="http://redworld.pro:8880/images/8549797b293caec267c2ade73ebb9c74.png" group-title="→ PERÚ ←",PE| ATV HD OP1
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429004
+#EXTINF:-1 tvg-id="" tvg-name="PE| ATV HD OP2" tvg-logo="http://redworld.pro:8880/images/8549797b293caec267c2ade73ebb9c74.png" group-title="→ PERÚ ←",PE| ATV HD OP2
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429005
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="PE| ATV SD" tvg-logo="http://redworld.pro:8880/images/8549797b293caec267c2ade73ebb9c74.png" group-title="→ PERÚ ←",PE| ATV SD
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429006
+#EXTINF:-1 tvg-id="ATV+.pe" tvg-name="PE| ATV+ HD" tvg-logo="http://redworld.pro:8880/images/b47d6222fd8cfd8c85c7574b1bc685a0.png" group-title="→ PERÚ ←",PE| ATV+ HD
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429007
+#EXTINF:-1 tvg-id="" tvg-name="PE| ATV SUR" tvg-logo="http://redworld.pro:8880/images/c87c27a46d54fb85a78e813f2f38e4de.png" group-title="→ PERÚ ←",PE| ATV SUR
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429008
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="PE| Latina HD OP1" tvg-logo="http://redworld.pro:8880/images/4d96fae615581725d50b756203386f59.png" group-title="→ PERÚ ←",PE| Latina HD OP1
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429009
+#EXTINF:-1 tvg-id="" tvg-name="PE| Latina HD OP2" tvg-logo="http://redworld.pro:8880/images/4d96fae615581725d50b756203386f59.png" group-title="→ PERÚ ←",PE| Latina HD OP2
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429010
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="PE| Latina SD" tvg-logo="http://redworld.pro:8880/images/4d96fae615581725d50b756203386f59.png" group-title="→ PERÚ ←",PE| Latina SD
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429011
+#EXTINF:-1 tvg-id="" tvg-name="PE | C4N4L N" tvg-logo="http://redworld.pro:8880/images/d24268d5fcb7b05c20db39f135285580.png" group-title="→ PERÚ ←",PE | C4N4L N
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429012
+#EXTINF:-1 tvg-id="" tvg-name="PE| TV PERU" tvg-logo="http://redworld.pro:8880/images/3e24f2169df093c9157cfed8c0860672.png" group-title="→ PERÚ ←",PE| TV PERU
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429013
+#EXTINF:-1 tvg-id="" tvg-name="PE| TV PERU NOTICIAS" tvg-logo="http://redworld.pro:8880/images/ae52a2d088bc70e2951496c096bca957.png" group-title="→ PERÚ ←",PE| TV PERU NOTICIAS
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429014
+#EXTINF:-1 tvg-id="" tvg-name="PE| TV PERU INTERNACIONAL" tvg-logo="http://redworld.pro:8880/images/e9325473232d7349006691c774bd62da.png" group-title="→ PERÚ ←",PE| TV PERU INTERNACIONAL
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429015
+#EXTINF:-1 tvg-id="" tvg-name="PE| PBO TV" tvg-logo="http://redworld.pro:8880/images/56a5510a4809056f29325935623a448d.jpg" group-title="→ PERÚ ←",PE| PBO TV
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429016
+#EXTINF:-1 tvg-id="" tvg-name="PE| Exitosa TV" tvg-logo="http://redworld.pro:8880/images/09c619b963604f6731e4028dfa882ae6.png" group-title="→ PERÚ ←",PE| Exitosa TV
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429017
+#EXTINF:-1 tvg-id="" tvg-name="PE| CULTURA TV" tvg-logo="http://redworld.pro:8880/images/9c2d8b50733ba0a65d747febb8f53259.png" group-title="→ PERÚ ←",PE| CULTURA TV
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429018
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="PE | PANAMERICANA HD" tvg-logo="http://redworld.pro:8880/images/582419668053355e2a66e109bd08dff5.png" group-title="→ PERÚ ←",PE | PANAMERICANA HD
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429019
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="PE| Panamericana SD" tvg-logo="http://redworld.pro:8880/images/582419668053355e2a66e109bd08dff5.png" group-title="→ PERÚ ←",PE| Panamericana SD
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429020
+#EXTINF:-1 tvg-id="Willax.pe" tvg-name="PE| WILLAX HD OP1" tvg-logo="http://redworld.pro:8880/images/efa84198b7add6211118ff36816f5095.png" group-title="→ PERÚ ←",PE| WILLAX HD OP1
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429021
+#EXTINF:-1 tvg-id="" tvg-name="PE| WILLAX HD OP2" tvg-logo="http://redworld.pro:8880/images/efa84198b7add6211118ff36816f5095.png" group-title="→ PERÚ ←",PE| WILLAX HD OP2
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429022
+#EXTINF:-1 tvg-id="Willax.pe" tvg-name="PE| WILLAX SD" tvg-logo="http://redworld.pro:8880/images/efa84198b7add6211118ff36816f5095.png" group-title="→ PERÚ ←",PE| WILLAX SD
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429023
+#EXTINF:-1 tvg-id="" tvg-name="PE| CANAL IPE" tvg-logo="http://redworld.pro:8880/images/a8b8556aedb765bfe69ab47a694c0622.png" group-title="→ PERÚ ←",PE| CANAL IPE
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429024
+#EXTINF:-1 tvg-id="" tvg-name="PE| GLOBAL TV" tvg-logo="http://redworld.pro:8880/images/76798aca00f5fef345bdca0b2a528535.png" group-title="→ PERÚ ←",PE| GLOBAL TV
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429025
+#EXTINF:-1 tvg-id="" tvg-name="PE| LA TELE" tvg-logo="http://redworld.pro:8880/images/9c1fc4eb92c338e3f1509cce5eb41386.png" group-title="→ PERÚ ←",PE| LA TELE
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429026
+#EXTINF:-1 tvg-id="" tvg-name="PE| TV EN LINEA CUZC0" tvg-logo="http://redworld.pro:8880/images/7453bd6cd4f5a75c166ec1ff0e1fe168.jpg" group-title="→ PERÚ ←",PE| TV EN LINEA CUZC0
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429028
+#EXTINF:-1 tvg-id="" tvg-name="PE| MASTER TELEVISION AMAZONIA" tvg-logo="http://redworld.pro:8880/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="→ PERÚ ←",PE| MASTER TELEVISION AMAZONIA
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429029
+#EXTINF:-1 tvg-id="" tvg-name="NATIVA HD (PE)" tvg-logo="http://redworld.pro:8880/images/ac17a3884aa0f06484c02c0a8b96b211.png" group-title="→ PERÚ ←",NATIVA HD (PE)
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429031
+#EXTINF:-1 tvg-id="" tvg-name="PE| MEGA TV JAEN" tvg-logo="http://redworld.pro:8880/images/fab6643931cd73f38d9fe5cefa4b6897.png" group-title="→ PERÚ ←",PE| MEGA TV JAEN
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429032
+#EXTINF:-1 tvg-id="" tvg-name="PE| MEGA CINE" tvg-logo="http://redworld.pro:8880/images/79add281d47c9e3bdeee0a1504d259d6.jpg" group-title="→ PERÚ ←",PE| MEGA CINE
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429033
+#EXTINF:-1 tvg-id="" tvg-name="PE| BHTV" tvg-logo="http://redworld.pro:8880/images/78e353ad0a2f47696a03e22d61481732.png" group-title="→ PERÚ ←",PE| BHTV
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429034
+#EXTINF:-1 tvg-id="" tvg-name="PE| Antares TV" tvg-logo="http://redworld.pro:8880/images/ddef5c8d2021a6ccfaa9c5e5e9296a92.png" group-title="→ PERÚ ←",PE| Antares TV
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429035
+#EXTINF:-1 tvg-id="" tvg-name="PE| SOL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/800px-Sol_tv_pe.png" group-title="→ PERÚ ←",PE| SOL TV
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429036
+#EXTINF:-1 tvg-id="" tvg-name="PE| Autentica TV" tvg-logo="http://redworld.pro:8880/images/38cb4087c6158144b8147718c3d6a30a.png" group-title="→ PERÚ ←",PE| Autentica TV
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429038
+#EXTINF:-1 tvg-id="" tvg-name="PE| CRTV Moyobamba" tvg-logo="http://redworld.pro:8880/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="→ PERÚ ←",PE| CRTV Moyobamba
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429039
+#EXTINF:-1 tvg-id="" tvg-name="PE| IMPACTO TV CAJAMARCA" tvg-logo="http://redworld.pro:8880/images/c0ad3aca6774ab94e18d122f61a76981.png" group-title="→ PERÚ ←",PE| IMPACTO TV CAJAMARCA
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429041
+#EXTINF:-1 tvg-id="" tvg-name="PE| Catacaos TV Piura" tvg-logo="http://redworld.pro:8880/images/89b60996b798a2e8b8386349bd6bddda.png" group-title="→ PERÚ ←",PE| Catacaos TV Piura
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429042
+#EXTINF:-1 tvg-id="" tvg-name="PE| CABLE TV PERU" tvg-logo="http://redworld.pro:8880/images/2aae5dc1e598b3048c57d25464c81c7f.png" group-title="→ PERÚ ←",PE| CABLE TV PERU
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429043
+#EXTINF:-1 tvg-id="" tvg-name="PE| VIVA TV Yurimaguas" tvg-logo="http://redworld.pro:8880/images/2e92fe713cba87a46577f71d6493c396.png" group-title="→ PERÚ ←",PE| VIVA TV Yurimaguas
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429044
+#EXTINF:-1 tvg-id="" tvg-name="PE| Via Altomayo TV" tvg-logo="http://redworld.pro:8880/images/0069fe8ef3d768032223981313882d5c.png" group-title="→ PERÚ ←",PE| Via Altomayo TV
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429046
+#EXTINF:-1 tvg-id="" tvg-name="PE| Cvn TV Tumbes" tvg-logo="http://redworld.pro:8880/images/442b279f10bd4c172436b59a5a86c962.png" group-title="→ PERÚ ←",PE| Cvn TV Tumbes
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429047
+#EXTINF:-1 tvg-id="" tvg-name="PE| Aguaytia TV Huanuco" tvg-logo="http://redworld.pro:8880/images/0b0f2569820d9fb9fc47dba9a132566e.jpg" group-title="→ PERÚ ←",PE| Aguaytia TV Huanuco
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429048
+#EXTINF:-1 tvg-id="" tvg-name="PE| Cable Vision TV" tvg-logo="http://redworld.pro:8880/images/29196ed4d2b0c70f2074aced0f19c4fa.png" group-title="→ PERÚ ←",PE| Cable Vision TV
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429050
+#EXTINF:-1 tvg-id="" tvg-name="PE| Via Television Tarapoto" tvg-logo="http://redworld.pro:8880/images/f1c4e79423c2872275979b31c2f7da11.png" group-title="→ PERÚ ←",PE| Via Television Tarapoto
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429051
+#EXTINF:-1 tvg-id="" tvg-name="PE| Ovasion TV" tvg-logo="http://redworld.pro:8880/images/69822150e35dc5f7896b130be9d44d9f.png" group-title="→ PERÚ ←",PE| Ovasion TV
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429052
+#EXTINF:-1 tvg-id="" tvg-name="PE| Telecolor Amazonia" tvg-logo="http://redworld.pro:8880/images/ee8668e4e957dd70324f1462db0104ec.png" group-title="→ PERÚ ←",PE| Telecolor Amazonia
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/429053
+#EXTINF:-1 tvg-id="" tvg-name="PE | *LIGA 1 MAX SD" tvg-logo="http://redworld.pro:8880/images/32e8419a7ecb8f918c70fdadf783e3d8.png" group-title="→ PERÚ ←",PE | *LIGA 1 MAX SD
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/430206
+#EXTINF:-1 tvg-id="" tvg-name="PE | EVENTOS PERU DEPORTES" tvg-logo="http://redworld.pro:8880/images/d0696fc56d4f72caafad5032dd351b58.png" group-title="→ PERÚ ←",PE | EVENTOS PERU DEPORTES
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/430211
+#EXTINF:-1 tvg-id="" tvg-name="PE | IMPERIAL TV HUANCAVELICA" tvg-logo="http://redworld.pro:8880/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="→ PERÚ ←",PE | IMPERIAL TV HUANCAVELICA
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/430832
+#EXTINF:-1 tvg-id="" tvg-name="PE | CADENA TV HUANCAYO" tvg-logo="http://redworld.pro:8880/images/dc66a3925cb39ae09adb22450a8119f7.png" group-title="→ PERÚ ←",PE | CADENA TV HUANCAYO
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/430833
+#EXTINF:-1 tvg-id="" tvg-name="PE | KARIBEÑA TV" tvg-logo="http://redworld.pro:8880/images/cf21bdb393507a6aa6e639e8011c9fb7.jpg" group-title="→ PERÚ ←",PE | KARIBEÑA TV
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/431349
+#EXTINF:-1 tvg-id="" tvg-name="PE | BETHEL TV" tvg-logo="http://redworld.pro:8880/images/899cd0b922e21aced3d46726067a8eb6.png" group-title="→ PERÚ ←",PE | BETHEL TV
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/449737
+#EXTINF:-1 tvg-id="" tvg-name="PE | TELECENTRO TV HUANCAVELICA" tvg-logo="http://redworld.pro:8880/images/901cf5272495c56db134d3aa4e05a103.png" group-title="→ PERÚ ←",PE | TELECENTRO TV HUANCAVELICA
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/449738
+#EXTINF:-1 tvg-id="" tvg-name="PE| RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/RPP_TV.JPG" group-title="→ PERÚ ←",PE| RPP TV
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/453315
+#EXTINF:-1 tvg-id="" tvg-name="PE| UTV Ucayali" tvg-logo="http://redworld.pro:8880/images/c6b5d100fe3243dc9f82837a5ff20ab9.jpg" group-title="→ PERÚ ←",PE| UTV Ucayali
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/463894
+#EXTINF:-1 tvg-id="" tvg-name="TV LATINA | SCZ | HD" tvg-logo="http://daleplay.club:8080/images/ab7dc675bdb1c19b7555b480de400bc9.png" group-title="→ PERÚ ←",TV LATINA | SCZ | HD
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/464946
+#EXTINF:-1 tvg-id="" tvg-name="$SP*N 2 PE *" tvg-logo="http://redworld.pro:8880/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="→ PERÚ ←",$SP*N 2 PE *
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/486050
+#EXTINF:-1 tvg-id="" tvg-name="$SP*N 3 PE *" tvg-logo="http://redworld.pro:8880/images/3e99c57a516c085d9c222e40aebc7129.png" group-title="→ PERÚ ←",$SP*N 3 PE *
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/486060
+#EXTINF:-1 tvg-id="" tvg-name="$SP*N 4 PE *" tvg-logo="http://redworld.pro:8880/images/bfb9a69c9813f26eae33eb06029fa0ad.png" group-title="→ PERÚ ←",$SP*N 4 PE *
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/486067
+#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) ARG | America TV HD*" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="→ PERÚ ←",(OFFLINE) ARG | America TV HD*
+http://rlatinop.com:8880/caroy833/rm3p68BTSJNJ/490450
+#EXTINF:-1 tvg-id="" tvg-name="Rompan todo: La historia del rock en América Latina S01 E01" tvg-logo="http://redworld.pro:8880/images/69013cd87c3c1a05d8da79b67bd1dd39.jpg" group-title="→ PERÚ ←",Rompan todo: La historia del rock en América Latina S01 E01
+http://rlatinop.com:8880/series/caroy833/rm3p68BTSJNJ/486397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rompan todo: La historia del rock en América Latina S01 E02" tvg-logo="http://redworld.pro:8880/images/393166310370e8af46ce62759bbb57c3.jpg" group-title="→ PERÚ ←",Rompan todo: La historia del rock en América Latina S01 E02
+http://rlatinop.com:8880/series/caroy833/rm3p68BTSJNJ/486398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rompan todo: La historia del rock en América Latina S01 E03" tvg-logo="http://redworld.pro:8880/images/e905beb4058994f8197682b827c7540a.jpg" group-title="→ PERÚ ←",Rompan todo: La historia del rock en América Latina S01 E03
+http://rlatinop.com:8880/series/caroy833/rm3p68BTSJNJ/486399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rompan todo: La historia del rock en América Latina S01 E04" tvg-logo="http://redworld.pro:8880/images/34ce570773a0cfb9b9fb1f591a3ea87a.jpg" group-title="→ PERÚ ←",Rompan todo: La historia del rock en América Latina S01 E04
+http://rlatinop.com:8880/series/caroy833/rm3p68BTSJNJ/486400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rompan todo: La historia del rock en América Latina S01 E05" tvg-logo="http://redworld.pro:8880/images/a0e38655881515dcdca8b54e645569bc.jpg" group-title="→ PERÚ ←",Rompan todo: La historia del rock en América Latina S01 E05
+http://rlatinop.com:8880/series/caroy833/rm3p68BTSJNJ/486401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rompan todo: La historia del rock en América Latina S01 E06" tvg-logo="http://redworld.pro:8880/images/5b74a2129188382867122c1ae0f3df82.jpg" group-title="→ PERÚ ←",Rompan todo: La historia del rock en América Latina S01 E06
+http://rlatinop.com:8880/series/caroy833/rm3p68BTSJNJ/486402.mp4
