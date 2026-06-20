@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/644cae39f6840331fb11bd51b0a4a35b.jpg" group-title="→ DEPORTES", Dsport vip
+#EXTINF:-1 tvg-id="" tvg-logo="https://app-web-vercel.vercel.app/dsports.jpg" group-title="→ DEPORTES", Dspots
 https://bufaloweb.com/httpsCON/bufalo9/index.m3u8
+EXTINF:-1 tvg-id="" tvg-logo="https://app-web-vercel.vercel.app/dsports.jpg" group-title="→ DEPORTES", Dspots (opc.2)
+http://190.108.93.180:8000/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina" tvg-logo="https://i.imgur.io/rbEpLoS_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="→ PERÚ ←",Latina
 http://rlatinop.com:8880/faueazqemn/DakS9wbL9qsb/285350
 #EXTINF:-1 tvg-id="" tvg-name="RADIO LATINA EN VIVO 104.5" tvg-logo="http://goldfull.pro:8880/images/ff3954c81bda8045f432fd3e05cd5d6d.png" group-title="→ PERÚ ←",RADIO LATINA EN VIVO 104.5
